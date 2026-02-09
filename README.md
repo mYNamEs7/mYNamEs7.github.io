@@ -16,6 +16,7 @@ Python (FastAPI), Node.js, React, PostgreSQL
 - **Результат:** 5k+ пользователей  
 
 📷 Скриншот:  
+![Описание](images/bot.png)
 ![Bot](images/bot.png)
 
 🔗 https://github.com/username/bot
