@@ -2,7 +2,7 @@
 
 Python (FastAPI), Node.js, Next.js, React, Redis, PostgreSQL  
 📍 Санкт-Петербург / РФ  
-📩 Telegram: @my_um9 | GitHub: github.com/mYNamEs7
+📩 Telegram: [@my_um9](https://t.me/my_um9) | GitHub: [github.com/mYNamEs7](https://github.com/mYNamEs7)
 
 ---
 
@@ -428,5 +428,5 @@ Python (FastAPI), Node.js, Next.js, React, Redis, PostgreSQL
 </div>
 
 ## 📬 Контакты
-- Telegram: @my_um9
+- Telegram: [@my_um9](https://t.me/my_um9)
 - Email: yura97078@gmail.com
