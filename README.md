@@ -1,8 +1,8 @@
-# 👋 Привет! Меня зовут Юрий и я — Fullstack / Backend разработчик
+# 👋 Привет! Меня зовут Юрий и я — Fullstack разработчик
 
-Python (FastAPI), Node.js, React, PostgreSQL  
-📍 Удалённо / РФ  
-📩 Telegram: @username | GitHub: github.com/username
+Python (FastAPI), Node.js, Next.js, React, Redis, PostgreSQL  
+📍 Санкт-Петербург / РФ  
+📩 Telegram: @my_um9 | GitHub: github.com/mYNamEs7
 
 ---
 
@@ -428,5 +428,5 @@ Python (FastAPI), Node.js, React, PostgreSQL
 </div>
 
 ## 📬 Контакты
-- Telegram: @username  
-- Email: example@mail.com
+- Telegram: @my_um9
+- Email: yura97078@gmail.com
