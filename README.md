@@ -20,11 +20,68 @@ Python (FastAPI), Node.js, React, PostgreSQL
 🌐 [Demo](https://freelance-crm-one.vercel.app) · 📦 [GitHub](https://github.com/mYNamEs7/freelance-crm)
 
 <details>
+  
 <summary>📸 Посмотреть скриншоты</summary>
 <br>
-<img src="./images/bot.png" alt="Bot">
-  <br>
-  <em>Приветственное сообщение бота</em>
+<img src="./images/web/start_screen.png">
+<br>
+<em>Начальный экран предлагает авторизоваться</em>
+
+<br>
+<img src="./images/web/register.png">
+<br>
+<em>Если нету аккаунта, можно зарегистрироваться</em>
+
+<br>
+<img src="./images/web/successful_reg.png">
+<br>
+<em>Информирование об успешной регистрации</em>
+
+<br>
+<img src="./images/web/auth.png">
+<br>
+<em>Теперь можно войти с зарегистрированным аккаунтом</em>
+
+<br>
+<img src="./images/web/dashboard.png">
+<br>
+<em>После успешной авторизации попадаем на главный экран</em>
+
+<br>
+<img src="./images/web/clients.png">
+<br>
+<em>Здесь мы можем добавить новых клиентов (которые будут доступны только для текущего аккаунта)</em>
+
+<br>
+<img src="./images/web/add_client.png">
+<br>
+<em>Добавили клиента</em>
+
+<br>
+<img src="./images/web/orders.png">
+<br>
+<em>У каждого клиента есть свои заказы</em>
+
+<br>
+<img src="./images/web/add_order.png">
+<br>
+<em>Добавили заказ</em>
+
+<br>
+<img src="./images/web/edit_order.png">
+<br>
+<em>Заказ можно исправить</em>
+
+<br>
+<img src="./images/web/editing_orders.png">
+<br>
+<em>Исправленные заказы</em>
+
+<br>
+<img src="./images/web/order.png">
+<br>
+<em>Каждый заказ можно посмотреть подробнее</em>
+
 </details>
 
 <details>
