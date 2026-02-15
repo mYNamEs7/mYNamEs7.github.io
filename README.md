@@ -1,4 +1,4 @@
-<img width="1183" height="1003" alt="image" src="https://github.com/user-attachments/assets/986cd8d9-7fe8-4d7d-972d-54f2ebc02fbc" /># 👋 Привет! Меня зовут Юрий и я — Fullstack / Backend разработчик
+# 👋 Привет! Меня зовут Юрий и я — Fullstack / Backend разработчик
 
 Python (FastAPI), Node.js, React, PostgreSQL  
 📍 Удалённо / РФ  
