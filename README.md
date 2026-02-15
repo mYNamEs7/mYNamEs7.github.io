@@ -26,7 +26,7 @@ Python (FastAPI), Node.js, React, PostgreSQL
 <img src="./images/web/start_screen.png">
 <br>
 <em>Начальный экран предлагает авторизоваться</em>
-
+<br><br>
 <br>
 <img src="./images/web/register.png">
 <br>
