@@ -23,9 +23,6 @@ Python (FastAPI), Node.js, React, PostgreSQL
 <br>
 
 <img src="./images/bot.png" alt="Bot">
-<a href="./images/bot.png">
-  <img src="./images/bot.png" alt="Bot" width="600">
-</a>
 
 </details>
 
