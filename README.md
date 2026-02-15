@@ -23,6 +23,8 @@ Python (FastAPI), Node.js, React, PostgreSQL
 <summary>📸 Посмотреть скриншоты</summary>
 <br>
 <img src="./images/bot.png" alt="Bot">
+  <br>
+  <em>Приветственное сообщение бота</em>
 </details>
 
 <details>
