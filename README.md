@@ -22,9 +22,9 @@ Python (FastAPI), Node.js, React, PostgreSQL
 
 <br>
 
-![Дашборд](screenshots/dashboard.png)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mYNamEs7&show_icons=true&theme=tokyonight&hide_border=true&locale=ru)
 
-![Клиенты](screenshots/clients.png)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mYNamEs7&layout=compact&theme=tokyonight&hide_border=true&locale=ru)
 
 ![Проекты](screenshots/projects.png)
 
