@@ -20,11 +20,9 @@ Python (FastAPI), Node.js, React, PostgreSQL
 <details>
 <summary>📸 Посмотреть скриншоты</summary>
 
-![Bot](https://raw.githubusercontent.com/mYNamEs7/mYNamEs7.github.io/main/images/bot.png)
+<br>
 
-![Bot](/images/bot.png)
-
-![Bot](./images/bot.png)
+<img src="./images/bot.png" alt="Bot" width="600">
 
 </details>
 
