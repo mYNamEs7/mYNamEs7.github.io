@@ -276,45 +276,13 @@ Python (FastAPI), Node.js, React, PostgreSQL
 > **Телеграм-бот** для студентов: отвечает на академические вопросы, помогает
 > решать задачи и предоставляет образовательные ресурсы с помощью **OpenAI GPT**.
 
-
-## 📊 GitHub-статистика
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mYNamEs7&show_icons=true&theme=tokyonight&hide_border=true&locale=ru)
+<h3>🚀 Открыт к новым возможностям и сотрудничеству</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mYNamEs7&layout=compact&theme=tokyonight&hide_border=true&locale=ru)
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Открыт к новым возможностям и сотрудничеству
-
-*Загляните в репозитории, чтобы изучить код и детали реализации.*
+<p><i>Загляните в репозитории, чтобы изучить код и детали реализации.</i></p>
 
 </div>
-
-📷 Скриншот:  
-![Описание](images/bot.png)
-![Bot](images/bot.png)
-
-🔗 https://github.com/username/bot
-
----
-
-### 🔹 Веб-приложение
-**Описание:** SPA для управления данными  
-- **Роль:** fullstack  
-- **Стек:** React, Node.js, PostgreSQL  
-
-![App](images/app.png)
-
-🔗 https://github.com/username/app
-
----
 
 ## 📬 Контакты
 - Telegram: @username  
