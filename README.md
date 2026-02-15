@@ -22,11 +22,11 @@ Python (FastAPI), Node.js, React, PostgreSQL
 
 <br>
 
-![Описание](images/bot.png)
+![Bot](https://raw.githubusercontent.com/mYNamEs7/mYNamEs7.github.io/main/images/bot.png)
 
-![Bot](images/bot.png)
+![Bot](/images/bot.png)
 
-![Проекты](screenshots/projects.png)
+![Bot](./images/bot.png)
 
 </details>
 
