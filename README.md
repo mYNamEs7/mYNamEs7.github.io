@@ -296,9 +296,9 @@ Python (FastAPI), Node.js, React, PostgreSQL
 <p>
   <em>Общение с ботом с сохранением контекста</em>
   <br>
-  <img src="./images/bot/text_1.png">
-  <img src="./images/bot/text_2.png">
-  <img src="./images/bot/text_3.png">
+  <img src="./images/bot/text1.png">
+  <img src="./images/bot/text2.png">
+  <img src="./images/bot/text3.png">
 </p>
 
 </details>
