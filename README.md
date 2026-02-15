@@ -1,4 +1,4 @@
-# 👋 Привет! Меня зовут Юрий и я — Fullstack / Backend разработчик
+<img width="1183" height="1003" alt="image" src="https://github.com/user-attachments/assets/986cd8d9-7fe8-4d7d-972d-54f2ebc02fbc" /># 👋 Привет! Меня зовут Юрий и я — Fullstack / Backend разработчик
 
 Python (FastAPI), Node.js, React, PostgreSQL  
 📍 Удалённо / РФ  
@@ -248,9 +248,59 @@ Python (FastAPI), Node.js, React, PostgreSQL
 > Образовательный Telegram-бот с интеграцией искусственного интеллекта, помогающий студентам в обучении — от генерации конспектов до проверки знаний.
 
 <details>
+
 <summary>📸 Посмотреть скриншоты</summary>
+
 <br>
-<img src="./images/bot.png" alt="Bot">
+
+<p>
+  <img src="./images/bot/start_screen.png">
+  <br>
+  <em>Начальный экран бота</em>
+</p>
+
+<hr>
+
+<p>
+  <img src="./images/bot/hello.png">
+  <br>
+  <em>Приветствие</em>
+</p>
+
+<hr>
+
+<p>
+  <img src="./images/bot/mode_select_1.png">
+  <br>
+  <em>Выбор режима бота по кнопке</em>
+</p>
+
+<hr>
+
+<p>
+  <img src="./images/bot/mode_select_2.png">
+  <br>
+  <em>Команды бота</em>
+</p>
+
+<hr>
+
+<p>
+  <img src="./images/bot/mode_select_3.png">
+  <br>
+  <em>Изменить режим бота</em>
+</p>
+
+<hr>
+
+<p>
+  <em>Общение с ботом с сохранением контекста</em>
+  <br>
+  <img src="./images/bot/text_1.png">
+  <img src="./images/bot/text_2.png">
+  <img src="./images/bot/text_3.png">
+</p>
+
 </details>
 
 <details>
