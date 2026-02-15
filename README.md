@@ -31,7 +31,7 @@ Python (FastAPI), Node.js, React, PostgreSQL
   <em>Начальный экран предлагает авторизоваться</em>
 </p>
 
-<br><br>
+<hr>
 
 <p>
   <img src="./images/web/register.png">
@@ -39,7 +39,7 @@ Python (FastAPI), Node.js, React, PostgreSQL
   <em>Если нету аккаунта, можно зарегистрироваться</em>
 </p>
 
-<br><br>
+<hr>
 
 <p>
   <img src="./images/web/successful_reg.png">
@@ -47,7 +47,7 @@ Python (FastAPI), Node.js, React, PostgreSQL
   <em>Информирование об успешной регистрации</em>
 </p>
 
-<br><br>
+<hr>
 
 <p>
   <img src="./images/web/auth.png">
@@ -55,7 +55,7 @@ Python (FastAPI), Node.js, React, PostgreSQL
   <em>Теперь можно войти с зарегистрированным аккаунтом</em>
 </p>
 
-<br><br>
+<hr>
 
 <p>
   <img src="./images/web/dashboard.png">
@@ -63,7 +63,7 @@ Python (FastAPI), Node.js, React, PostgreSQL
   <em>После успешной авторизации попадаем на главный экран</em>
 </p>
 
-<br><br>
+<hr>
 
 <p>
   <img src="./images/web/clients.png">
@@ -71,7 +71,7 @@ Python (FastAPI), Node.js, React, PostgreSQL
   <em>Здесь мы можем добавить новых клиентов (которые будут доступны только для текущего аккаунта)</em>
 </p>
 
-<br><br>
+<hr>
 
 <p>
   <img src="./images/web/add_client.png">
@@ -79,7 +79,7 @@ Python (FastAPI), Node.js, React, PostgreSQL
   <em>Добавили клиента</em>
 </p>
 
-<br><br>
+<hr>
 
 <p>
   <img src="./images/web/orders.png">
@@ -87,7 +87,7 @@ Python (FastAPI), Node.js, React, PostgreSQL
   <em>У каждого клиента есть свои заказы</em>
 </p>
 
-<br><br>
+<hr>
 
 <p>
   <img src="./images/web/add_order.png">
@@ -95,7 +95,7 @@ Python (FastAPI), Node.js, React, PostgreSQL
   <em>Добавили заказ</em>
 </p>
 
-<br><br>
+<hr>
 
 <p>
   <img src="./images/web/edit_order.png">
@@ -103,7 +103,7 @@ Python (FastAPI), Node.js, React, PostgreSQL
   <em>Заказ можно исправить</em>
 </p>
 
-<br><br>
+<hr>
 
 <p>
   <img src="./images/web/editing_orders.png">
@@ -111,7 +111,7 @@ Python (FastAPI), Node.js, React, PostgreSQL
   <em>Исправленные заказы</em>
 </p>
 
-<br><br>
+<hr>
 
 <p>
   <img src="./images/web/order.png">
