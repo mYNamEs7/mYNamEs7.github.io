@@ -19,7 +19,7 @@ Python (FastAPI), Node.js, React, PostgreSQL
 
 ### 1️⃣ Freelance CRM
 
-🌐 [Demo на Vercel](https://vercel.com/mynames7s-projects/freelance-crm) · 📦 [GitHub](https://github.com/mYNamEs7/freelance-crm)
+🌐 [Demo на Vercel](https://freelance-crm-one.vercel.app) · 📦 [GitHub](https://github.com/mYNamEs7/freelance-crm)
 
 > CRM-система для фрилансеров: управление клиентами, проектами,
 > счетами и платежами. Развёрнута на **Vercel** с базой **PostgreSQL**.
