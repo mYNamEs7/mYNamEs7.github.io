@@ -25,11 +25,6 @@ Python (FastAPI), Node.js, React, PostgreSQL
 <img src="./images/bot.png" alt="Bot">
   <br>
   <em>Приветственное сообщение бота</em>
-<p align="center">
-  <img src="./images/bot.png" alt="Bot" width="400">
-  <br>
-  <em>Приветственное сообщение бота</em>
-</p>
 </details>
 
 <details>
